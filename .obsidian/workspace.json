@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "61445add05f0b597",
+    "type": "split",
+    "children": [
+      {
+        "id": "eaea4169c962ab9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16999d325f7b8f9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QA-sheet-5/2019311801_이균서_QA_sheet_5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "488b8043918fe7d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a7bf0416a96b6c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1ef5d2795c83f38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b46c0782209190e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "abb550a90ddc2e10",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8e0b16d5e8853dfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "727704968cf95860",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0cb10ef4283bf4a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "QA-sheet-5/2019311801_이균서_QA_sheet_5.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e91b664c523c3fab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "QA-sheet-5/2019311801_이균서_QA_sheet_5.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0dcced2c0f6214ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7615e467e40fdd32",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "QA-sheet-5/2019311801_이균서_QA_sheet_5.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "16999d325f7b8f9b",
+  "lastOpenFiles": [
+    "QA-sheet-5/2019311801_이균서_QA_sheet_5.pdf",
+    "QA-sheet-5/5.Requirements Engineering(new).pdf",
+    "QA-sheet-5/2019311801_이균서_QA_sheet_5.md",
+    "QA-sheet-5/5.Requirements Engineering(new) ko.pdf",
+    "QA-sheet-5/Pasted image 20231013135616.png",
+    "QA-sheet-5/Pasted image 20231013134821.png",
+    "QA-sheet-5/QA Sheet (#5) - Requirement Engineering.pdf",
+    "QA-sheet-5/Pasted image 20231013103936.png",
+    "QA-sheet-5/QA Sheet (.md",
+    "QA_sheet#4/2019311801_이균서_QA_sheet_4.md",
+    "QA-sheet-5",
+    "QA_sheet#4/2019311801_이균서_QA_sheet_4.pdf",
+    "QA_sheet#4/4.Agile Software Development(new).pdf",
+    "QA_sheet#4/Pasted image 20231006135023.png",
+    "QA_sheet#4/Pasted image 20231006135013.png",
+    "QA_sheet#4/Pasted image 20231006132948.png",
+    "QA_sheet#4/Pasted image 20231006131010.png",
+    "QA_sheet#4/Pasted image 20231006121925.png",
+    "QA_sheet#4/Pasted image 20231006120754.png",
+    "QA_sheet#4/QA Sheet (#4) - Agile Software development.pdf",
+    "1.Introduction to SE(new).pdf",
+    "2.Systems Engineering(new).pdf",
+    "2019311801_이균서_QA_sheet#2.pdf",
+    "QA_sheet#4/Pasted image 20231006120511.png",
+    "ㅖ.md",
+    "QA_sheet#3/2019311801_이균서_QA_sheet#3.md"
+  ]
+}
